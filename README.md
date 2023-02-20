@@ -33,5 +33,5 @@ The files are,
  am also going to add register option so that multiple accounts can
  be created and you won't have to manually change the code everytime!
 
-##----------------THANK YOU FOR READING-------------------
+## ----------------THANK YOU FOR READING-------------------
 
